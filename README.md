@@ -15,9 +15,6 @@ I'm a Software engineering student who loves to learn and share about programmin
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fikalalif&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=fikalalif&icon=0&color=3)](https://visitcount.itsvg.in)
 
