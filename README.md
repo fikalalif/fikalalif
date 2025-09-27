@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software engineering student who loves to learn and share about programming, i'm really excited about website, mobile development and machine learning
+I'm a Software engineering student who loves to learn and share about programming, i'm really excited about website and mobile development
 
 
 ## 🌐 Socials:
