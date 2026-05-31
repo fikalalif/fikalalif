@@ -29,29 +29,3 @@ I'm a 6th-semester Informatics student who loves turning complex problems into e
 
 **Cloud, AI & Others:**
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-## 📊 GitHub Stats & Trophies:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fikalalif&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fikalalif&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=fikalalif&theme=merko&hide_border=false" alt="Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikalalif&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
----
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=fikalalif&icon=0&color=3" alt="Profile Views" />
-  </a>
-</div>
