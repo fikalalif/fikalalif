@@ -1,16 +1,17 @@
 # Hi there, I'm Fikal! 👋
 
 ### 🚀 Full-Stack & Mobile Developer | Tech Enthusiast
+🌍 **Check out my portfolio:** [fikalalif.vercel.app](https://fikalalif.vercel.app)
 
 I'm a 6th-semester Informatics student who loves turning complex problems into elegant, user-friendly solutions. I have a strong passion for website and mobile development, and I enjoy exploring how AI can be integrated into practical tools. When I'm not writing code in my Ubuntu environment, you can probably find me tinkering with vintage digicams or doing some motorbike maintenance!
 
 ## 💫 About Me:
-- 💻 **My Portofolio:** fikalalif.vercel.app
 - 🌱 **Currently exploring:** Advanced Machine Learning concepts (Computer Vision) and optimizing mobile app architectures.
 - 👯 **Community:** Active in tech communities and previously served as an organizer for the "Plugin" coding study club.
 - ⚡ **Fun fact:** I love finding the perfect balance between simple, organic designs and heavy, complex backend systems.
 
 ## 🌐 Let's Connect:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000000?logo=vercel&logoColor=white)](https://fikalalif.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fikalalif) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fikal-alif-a0a628258) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fikalalif26@gmail.com) 
