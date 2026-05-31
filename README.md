@@ -3,7 +3,7 @@
 ### 🚀 Full-Stack & Mobile Developer | Tech Enthusiast
 🌍 **Check out my portfolio:** [fikalalif.vercel.app](https://fikalalif.vercel.app)
 
-I'm a 6th-semester Informatics student who loves turning complex problems into elegant, user-friendly solutions. I have a strong passion for website and mobile development, and I enjoy exploring how AI can be integrated into practical tools. When I'm not writing code in my Ubuntu environment, you can probably find me tinkering with vintage digicams or doing some motorbike maintenance!
+I'm a 6th-semester Informatics student who loves turning complex problems into elegant, user-friendly solutions. I have a strong passion for website and mobile development, and I enjoy exploring how AI can be integrated into practical tools.
 
 ## 💫 About Me:
 - 🌱 **Currently exploring:** Advanced Machine Learning concepts (Computer Vision) and optimizing mobile app architectures.
